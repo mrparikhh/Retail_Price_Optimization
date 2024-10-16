@@ -21,7 +21,7 @@ The sample dataset includes various details about each order, such as:
 Let's jump into the Python packages you need. Within the Python environment of your choice, run:
 
 ```python
-git clone https://github.com/ayush714/retail-price-optimization-mlops.git
+git clone https://github.com/mrparikhh/Retail_Price_Optimization.git
 pip install -r requirements.txt
 ```
 
